@@ -1,6 +1,6 @@
 # fixed_point_twos_complement_to_decimal_calculator
 author : brian98077  
-convert fixed point 2's complement number to decimal  
+convert fixed-point 2's complement number to decimal  
 
   
 usage :  
