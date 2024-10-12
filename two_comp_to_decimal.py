@@ -1,3 +1,6 @@
+########## author : brian98077 ##########
+##########  date : 2024/10/13  ##########
+
 TOTAL_WIDTH = int(input("total bits : "))
 FRAC_WIDTH = int(input("bits for fraction : "))
 
