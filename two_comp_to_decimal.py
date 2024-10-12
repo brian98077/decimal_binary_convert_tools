@@ -4,7 +4,6 @@
 TOTAL_WIDTH = int(input("total bits : "))
 FRAC_WIDTH = int(input("bits for fraction : "))
 
-# convert binary(4 bits integer + 8 bits fraction) to decimal
 def two_comp_to_decimal(two_comp_num):
     position = 0
     result = 0
