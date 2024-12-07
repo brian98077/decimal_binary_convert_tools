@@ -9,7 +9,7 @@ two_comp_to_decimal.py
     then input 2's complement number  
     *note that the input should be negative (<0)  
 
-dec_to_two_comp.py
+dec_to_two_comp.py  
     convert fixed-point 2's complement number to decimal  
     
     usage :  
